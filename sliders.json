@@ -1,0 +1,104 @@
+{
+  "sliders": [
+    {
+      "id": "slider1",
+      "slides": [
+        {
+          "imageUrl": "img/16.avif",
+          "projectUrl": "https://comongames.ru/",
+          "title": "ComonGames"
+        },
+        {
+          "imageUrl": "img/2.avif",
+          "projectUrl": "https://48-board-game-stat.vercel.app/",
+          "title": "48 Board Game"
+        },
+        {
+          "imageUrl": "img/3.avif",
+          "projectUrl": "https://promo.giftsexpert.ru/",
+          "title": "Gifts expert"
+        },
+        {
+          "imageUrl": "img/4.avif",
+          "projectUrl": "#",
+          "title": "Star Diggers"
+        }
+      ]
+    },
+    {
+      "id": "slider2",
+      "slides": [
+        {
+          "imageUrl": "img/1.avif",
+          "projectUrl": "https://sacralium.game/",
+          "title": "Sacralium"
+        },
+        {
+          "imageUrl": "img/5.avif",
+          "projectUrl": "#",
+          "title": "WoodHouse"
+        },
+        {
+          "imageUrl": "img/7.avif",
+          "projectUrl": "https://arttube.ru/",
+          "title": "ArtTube"
+        },
+        {
+          "imageUrl": "img/8.avif",
+          "projectUrl": "https://serdjukow.github.io/scaf-automobile/dist/index.html",
+          "title": "SCAF Automobile"
+        }
+      ]
+    },
+    {
+      "id": "slider3",
+      "slides": [
+        {
+          "imageUrl": "img/10.avif",
+          "projectUrl": "https://konnektor-kompass.vercel.app/",
+          "title": "Konnektor Kompass"
+        },
+        {
+          "imageUrl": "img/9.avif",
+          "projectUrl": "https://serdjukow.github.io/s3xy-cars/dist/index.html",
+          "title": "S3XY CARS"
+        },
+        {
+          "imageUrl": "img/11.avif",
+          "projectUrl": "https://serdjukow.github.io/horizontal-parallax-scrolling/",
+          "title": "Horizontal Parallax Scrolling"
+        },
+        {
+          "imageUrl": "img/12.avif",
+          "projectUrl": "https://serdjukow.github.io/creative-scroll-website/",
+          "title": "Creative scroll"
+        }
+      ]
+    },
+    {
+      "id": "slider4",
+      "slides": [
+        {
+          "imageUrl": "img/6.avif",
+          "projectUrl": "https://www.linkedin.com/in/sergej-serdjukow-a55bb0b4/",
+          "title": "CV"
+        },
+        {
+          "imageUrl": "img/14.avif",
+          "projectUrl": "https://serdjukow.github.io/parallax-scrolling/ready-html/index.html",
+          "title": "Parallax Scrolling"
+        },
+        {
+          "imageUrl": "img/15.avif",
+          "projectUrl": "https://terraddoc.ru/",
+          "title": "Terra D-Doc"
+        },
+        {
+          "imageUrl": "img/13.avif",
+          "projectUrl": "https://serdjukow.github.io/tadaimatech_spa/dist/index.html",
+          "title": "Tadaimatech"
+        }
+      ]
+    }
+  ]
+}
